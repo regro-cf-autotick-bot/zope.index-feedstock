@@ -1,5 +1,5 @@
 {% set name = "zope.index" %}
-{% set version = "5.2.0" %}
+{% set version = "5.2.1" %}
 
 
 package:
@@ -8,7 +8,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/zope.index-{{ version }}.tar.gz
-  sha256: 688ef079f8174664c19d8937094f09f7bd7b72be701784b655d94ee3daaf646c
+  sha256: 055c1949b532b618ee39c6d42f44ee85537a2fe3b1cf333e775a144b0c8b4861
 
 build:
   number: 0
